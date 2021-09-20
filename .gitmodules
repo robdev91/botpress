@@ -1,6 +1,6 @@
 [submodule "botpress-server"]
-	path = server
+	path = botpress-server
 	url = git@github.com:elif-bunny/botpress-server.git
 [submodule "botpress-client"]
-	path = client
+	path = botpress-client
 	url = git@github.com:elif-bunny/botpress-client.git
