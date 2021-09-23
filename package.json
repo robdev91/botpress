@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server": "yarn --cwd ./server run start",
-    "start-client": "yarn --cwd ./client run start",
+    "start-server": "yarn --cwd ./botpress-server run start",
+    "start-client": "yarn --cwd ./botpress-client run start",
     "start": "yarn start-client & yarn start-server"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
